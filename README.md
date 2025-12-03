@@ -1,6 +1,6 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-## Name : Prathik TS
-## Reg No : 212224240117
+## Name : Keerthan D
+## Reg No : 212224240075
 ## Date : 09/09/2025
 
 
